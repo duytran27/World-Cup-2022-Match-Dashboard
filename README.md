@@ -1,6 +1,6 @@
 # World Cup 2022 Match Dashboard
 
-This project provides a comprehensive visual dashboard for analyzing a World Cup 2022 football match between Brazil and Korea. It allows users to track and visualize match statistics, including xG (expected goals), possession data, and shot maps for various teams, offering insights into performance across multiple games.
+This project provides a comprehensive visual dashboard for analyzing a World Cup 2022 football match between Brazil and Korea. It allows users to track and visualize match statistics, including xG (expected goals), possession data, and shot maps for both teams, offering insights into the performance of the game.
 
 ## Features
 - **xG Flow Charts**: Displays the flow of expected goals for teams over time during a match.
